@@ -6,7 +6,6 @@ The saved models are named model_good_1.h5 for challenge dataset and model-ep004
 For VizWiz Challenge Dataset:
 In Train_Model.ipynb file, run the last cell of the notebook after setting the path variable in the code to be the path of the image for which you need to generate the caption.
 You must have installed all the libraries required by the code in that cell.
-The images present in the Sample_test Folder are some sample images from the validation dataset that can be tried on the code by providing correct path variable.
 # For Flickr8K Dataset:
 In Train_Model_Flicker.ipynb file, run the last cell of the notebook after setting the path variable in the code to be the path of the image for which you need to generate the caption.
 You must have installed all the libraries required by the code in that cell.
